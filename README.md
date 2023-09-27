@@ -21,7 +21,16 @@ See instructions. Delete this line and place your Product Vision Statement here.
 
 ## User Requirements
 
-See instructions. Delete this line and place a list of your User Stories here.
+1) As a user, I want to be able to quickly look at how many people there are currently at an NYU dining hall or study space.
+2) As a user, I want to be able to add dining halls or study spaces to a list of Favorite spaces.
+3) As a user, I want to see how many people are at a space I Favorited on the home screen.
+4) As a user, I want to see past records of how busy individual study spaces were the week before.
+5) As a user, I want to be able to search for a space with their name.
+6) As a user, I want to know to not go to a space if it is too crowded currently.
+7) As a user, I want to see an associated image next to a listed NYU Dining hall or study space for easy recognition.
+8) As a user, I want a mobile application that works on both IOS and Android platforms.
+
+
 
 ## Activity Diagrams
 
