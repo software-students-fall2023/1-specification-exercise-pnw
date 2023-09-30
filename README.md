@@ -16,12 +16,23 @@ https://github.com/kevinli2260
 
 
 ## Stakeholders
+Interviewed: Brian Fraynd, Roberto Aguilar (Both NYU students).
 
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
+Goals/Needs:
+  -Find a place to eat, study, etc. at NYU.
+  -Be able to find a quiet place to a study.
+  -Be able to find a dining hall that doesn't have such a long wait.
+  -Be able to identify such places in a quick, easy, and straightforward manner.
+
+Problems/Frustrations:
+  -In need of a quiet place to take an online class, or have a call or interview, but can't find an available space in time.
+  -Need to eat, but there is only a short time to do so before the next class
+  -No way to know whether a given dining hall/study space is too crowded at a given point in time (without physically going there).
+  -It's a waste of time to have to go looking around for an available study space, or to have to go to a dining hall only to find that there's a line that's too long, especially when you're in a hurry.
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+An app that will quickly and easily help identify available places to study and/or eat at NYU.
 
 ## User Requirements
 
