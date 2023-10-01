@@ -52,7 +52,7 @@ An app that will quickly and easily help identify available places to study and/
 2) As a user, I want to be able to add/remove dining halls or study spaces to a list of Favorite spaces, so I can quickly look at the occupancy numbers for the places I care most about.
 3) As a user, I want to see past records of how busy individual study spaces were the week before, so I can choose the convenient times to visit.
 4) As a user, I want to be able to search for a space with their name, so I can quickly find the place I want to visit in the app.
-5) As a user, I want to see an associated image next to a listed NYU Dining hall or study space, so I can easily recognize the location. 
+5) As a user, I want to see an associated image next to a listed NYU Dining hall or study space, so I can easily recognize the location when browsing in the app.
 6) As a user, I want a mobile application that works on both IOS and Android platforms, so I can access the app regardless of the device I'm using.
 7) As a user, I want to submit feedback or comments about a specific dining hall or study space, such as noise level and crowdedness, so I can let others know of my experiences and grow the app community.
 8) As a user, I want to be able to change my display name and avatar, so that I can leave creative comments anonymously.
