@@ -15,6 +15,8 @@ https://github.com/phoebusyip
 Wenqian Li
 https://github.com/kevinli2260
 
+Danica Jin
+https://github.com/dj9771
 
 ## Stakeholders
 
