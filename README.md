@@ -53,7 +53,7 @@ An app that will quickly and easily help identify available places to study and/
 6) As a user, I want a mobile application that works on both IOS and Android platforms, so I can access the app regardless of the device I'm using.
 7) As a user, I want to submit feedback or comments about a specific dining hall or study space, such as noise level and crowdedness, so I can let others know of my experiences and grow the app community.
 8) As a user, I want to be able to change my display name and avatar, so that I can leave creative comments anonymously.
-9) As a user, I want to be able to manually record my visit to an app, so that I can contribute to the app's database and have a record of where I have been.
+9) As a user, I want to be able to read other NYU students' experience and reviews of NYU dining halls, so that I will have as more information before making the decision of selecting which NYU space to go to.
 10) As a user, I want to be able to browse all NYU study spaces and dining halls, so I can find new locations to visit.
 
 ## Activity Diagrams
