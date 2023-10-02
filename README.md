@@ -56,10 +56,26 @@ An app that will quickly and easily help identify available places to study and/
 9) As a user, I want to be able to read other NYU students' experience and reviews of NYU dining halls, so that I will have as more information before making the decision of selecting which NYU space to go to.
 10) As a user, I want to be able to browse all NYU study spaces and dining halls, so I can find new locations to visit.
 
-## Activity Diagrams
+## Diagrams
 
 ![UML Diagram 1 for User Specification #1](./images/UML_1.png)
 ![UML Diagram 2 for User Specification #9](./images/UML_9.png)
+
+## Wireframe diagrams
+![Landing Page](./images/1_landing.png)
+![Email](./images/2_email.png)
+![Submit Email](./images/3_email_submit.png)
+![Password](./images/4_password.png)
+![Home](./images/5_home.png)
+![Search](./images/6_search.png)
+![Visit](./images/7_%20visit.png)
+![User Profile](./images/8_user_profile.png)
+![Spaces List](./images/9_spaces.png)
+![Space Details](./images/10_space_details.png)
+![Comments](./images/11_comment.png)
+![Edit Profile](./images/12_edit_profile.png)
+![Choose Avatar](./images/13_edit_avatar.png)
+
 
 ## Clickable Prototype
 
