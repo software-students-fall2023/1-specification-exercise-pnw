@@ -58,7 +58,8 @@ An app that will quickly and easily help identify available places to study and/
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+![UML Diagram 1 for User Specification #1](./images/UML_1.png)
+![UML Diagram 2 for User Specification #9](./images/UML_9.png)
 
 ## Clickable Prototype
 
