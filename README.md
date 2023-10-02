@@ -63,4 +63,4 @@ An app that will quickly and easily help identify available places to study and/
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+[Link to our Figma Clickable Prototype](https://www.figma.com/file/3CLhPQGK7UPsN0ziwYpSzA/Project1?type=design&node-id=0%3A1&mode=design&t=mZJp0Sxt2Pnbbq9G-1)
