@@ -2,7 +2,7 @@
 
 A little exercise to get started with the specification phase of the software development lifecycle. See the [instructions](instructions.md) for more detail.
 
-## Team Name: NYU Spaces
+## Team Name: PNW
 ## Team members
 Nicolas Izurieta
 https://github.com/ni2050
