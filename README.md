@@ -31,6 +31,7 @@ Goals/Needs:
   -Be able to identify such places in a quick, easy, and straightforward manner.
 
 Problems/Frustrations:
+
   -In need of a quiet place to take an online class, or have a call or interview, but can't find an available space in time.
   
   -Need to eat, but there is only a short time to do so before the next class.
@@ -80,4 +81,4 @@ An app that will quickly and easily help identify available places to study and/
 
 ## Clickable Prototype
 
-[Link to our Figma Clickable Prototype](https://www.figma.com/proto/3CLhPQGK7UPsN0ziwYpSzA/Project1?type=design&node-id=39-927&t=7F5Mu7Dd4ZTT4fGZ-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A1715)
+[Link to our Figma Clickable Prototype](https://www.figma.com/proto/3CLhPQGK7UPsN0ziwYpSzA/Project1?type=design&node-id=2-1715&t=skIlpEjmsnRLkNWr-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A1715)
